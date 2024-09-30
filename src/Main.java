@@ -6,6 +6,9 @@ import java.util.Scanner;
  * Entrypoint GuessGame Class
  */
 public class Main {
+   /**
+    * Entry point of the Guess Game. Contains the main algorithm of the game.
+    */
    public static void main(String[] args) {
 
       final var random = new Random();
